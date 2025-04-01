@@ -1,5 +1,7 @@
 # Vision Transformer CIFAR-10 图像分类项目
 
+![outline](./asset/vit_figure.png)
+
 本项目从零开始实现了 Vision Transformer (ViT) 模型，并在 CIFAR-10 图像分类数据集上进行训练，最终模型可达到 **80%+ 的测试准确率**。项目不依赖任何现成的 ViT 实现（如 `timm`），完整地手动构建了 ViT 的各个模块，包括图像 **Patch Embedding**、**多头自注意力 (Multi-Head Self-Attention)**、**Transformer Encoder 堆叠**、**CLS Token** 等。代码使用 PyTorch 实现，支持 GPU 加速及多GPU并行训练，训练过程中会保存模型检查点并记录日志和训练曲线图。
 
 ## 项目结构
