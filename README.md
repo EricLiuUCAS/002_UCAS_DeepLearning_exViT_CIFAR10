@@ -84,3 +84,4 @@ ViT (7层, 384维, 12头)	90.9%
 3. GeeksforGeeks, Building a Vision Transformer from Scratch in PyTorch (2024): 提供了 ViT 模型实现的教程和关键概念说明# 002_UCAS_DeepLearning_exViT_CIFAR10
 # 002_UCAS_DeepLearning_exViT_CIFAR10
 # 002_UCAS_DeepLearning_exViT_CIFAR10
+# 002_UCAS_DeepLearning_exViT_CIFAR10
